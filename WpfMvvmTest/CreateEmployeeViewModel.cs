@@ -11,6 +11,7 @@ namespace WpfMvvmTest
 {
     public class CreateEmployeeViewModel : Observable
     {      
+        // Nouveau commentaire
         private string _id;
         private string _firstName;
         private string _lastName;
