@@ -10,8 +10,7 @@ using System.Windows;
 namespace WpfMvvmTest
 {
     public class CreateEmployeeViewModel : Observable
-    {
-        // Add Property :
+    {      
         private string _id;
         private string _firstName;
         private string _lastName;
