@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmTest", "WpfMvvmTest\WpfMvvmTest.csproj", "{AEDB8D68-A95A-4630-97A4-629F987C40FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEDB8D68-A95A-4630-97A4-629F987C40FA}.Debug|x86.ActiveCfg = Debug|x86
+		{AEDB8D68-A95A-4630-97A4-629F987C40FA}.Debug|x86.Build.0 = Debug|x86
+		{AEDB8D68-A95A-4630-97A4-629F987C40FA}.Release|x86.ActiveCfg = Release|x86
+		{AEDB8D68-A95A-4630-97A4-629F987C40FA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
