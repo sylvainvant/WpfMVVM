@@ -11,7 +11,7 @@ namespace WpfMvvmTest
 {
     public class CreateEmployeeViewModel : Observable
     {
-        // Add Property :
+        // Add Property : 
         private string _id;
         private string _firstName;
         private string _lastName;
@@ -61,7 +61,9 @@ namespace WpfMvvmTest
             //get { return !string.IsNullOrEmpty(FirstName); }
     
         }
-        
+        /// <summary>
+        /// Initialise a method Save()
+        /// </summary>
         public void Save()
         {
 
